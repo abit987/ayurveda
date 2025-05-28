@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://abit987.github.io/Ayurveda-FullStack-MERN/",
+  "homepage": "https://abit987.github.io/ayurveda/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
